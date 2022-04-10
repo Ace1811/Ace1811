@@ -1,0 +1,148 @@
+Lab 1 Softversko Inz.
+1.  / done 
+2.  / done 
+3. Done / 
+4. I open my repo (SI_2022_lab1_183232) and I go click on code, copy the https link.
+	Then I open my git Bash and use commands from now on there. 
+	Git clone *link*
+	Cd *repo name*
+	Ls -la (to check all my files and if everything went as planned).
+	Cat readme to check everything.
+5. Creating shopping_list.txt
+       -vim shopping_list.txt 
+       *Write 5 lines*
+       -wq
+       Git add shopping_list.txt
+       -git commit -m “bla bla”
+       -git status
+6. adding some thing
+	-git add s_list.txt
+	-git commig -m “message”
+
+7. git branch branch1
+ Git branch branch2
+
+8. Adding logs 
+commit bd8820dd5cc833a081e3c29883722f086f159b83 (HEAD -> Master, branch2, branch1)
+Author: Aleksandar Ristoski <ristoskialeksandar34@gmail.com>
+Date:   Sun Apr 10 22:23:18 2022 +0200
+
+    “Add quantities to the items.”
+
+commit 5f7af7f0956740a8f0849ddbf27c05e501329207 (origin/Master, origin/HEAD)
+Author: Aleksandar Ristoski <ristoskialeksandar34@gmail.com>
+Date:   Sun Apr 10 21:35:40 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit bf4ecf89650f22f64fe78b037c24373ed9ef4901
+Author: Aleksandar Ristoski <87489554+Ace1811@users.noreply.github.com>
+Date:   Sun Apr 10 18:24:31 2022 +0200
+
+    Update README.md
+
+commit 60a04a7b7fd34521a899e32abf2a4e4181856b5d
+Author: Aleksandar Ristoski <87489554+Ace1811@users.noreply.github.com>
+Date:   Sat Apr 9 16:29:35 2022 +0200
+
+
+9.  Git push
+
+10. $ git checkout branch1
+
+
+11. git add shopping_list.txt
+	$ git commit -m "“Change quantity of item #5”."
+
+
+12. $ git checkout master
+
+13. $ git status
+
+	$ git add shopping_list.txt
+$ git commit -m "Change quantity of item #2”"
+
+
+14. $ git push --set-upstream origin master
+$ git push --set-upstream origin branch1
+
+15. $ git checkout branch2
+
+16. $ git commit -m "Modify item #4”"
+
+17. $ git log
+commit 586acd1117961a96021ebdb153bc63d0d0635dad (HEAD -> branch2)
+Author: Aleksandar Ristoski <ristoskialeksandar34@gmail.com>
+Date:   Sun Apr 10 23:07:22 2022 +0200
+
+    Modify item #4”
+
+commit bd8820dd5cc833a081e3c29883722f086f159b83
+Author: Aleksandar Ristoski <ristoskialeksandar34@gmail.com>
+Date:   Sun Apr 10 22:23:18 2022 +0200
+
+    “Add quantities to the items.”
+
+commit 5f7af7f0956740a8f0849ddbf27c05e501329207 (origin/Master)
+Author: Aleksandar Ristoski <ristoskialeksandar34@gmail.com>
+Date:   Sun Apr 10 21:35:40 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit bf4ecf89650f22f64fe78b037c24373ed9ef4901
+Author: Aleksandar Ristoski <87489554+Ace1811@users.noreply.github.com>
+Date:   Sun Apr 10 18:24:31 2022 +0200
+
+    Update README.md
+
+
+18. $ git add shopping_list.txt
+
+$ git commit -m "“Modify item #4 and add item #6”."
+
+19. $ git log
+commit 94aaf0cae41dd642ad0a2abc953a8499cb754147 (HEAD -> branch2)
+Author: Aleksandar Ristoski <ristoskialeksandar34@gmail.com>
+Date:   Sun Apr 10 23:12:33 2022 +0200
+
+    “Modify item #4 and add item #6”.
+
+commit 586acd1117961a96021ebdb153bc63d0d0635dad
+Author: Aleksandar Ristoski <ristoskialeksandar34@gmail.com>
+Date:   Sun Apr 10 23:07:22 2022 +0200
+
+    Modify item #4”
+
+commit bd8820dd5cc833a081e3c29883722f086f159b83
+Author: Aleksandar Ristoski <ristoskialeksandar34@gmail.com>
+Date:   Sun Apr 10 22:23:18 2022 +0200
+
+    “Add quantities to the items.”
+
+commit 5f7af7f0956740a8f0849ddbf27c05e501329207 (origin/Master)
+Author: Aleksandar Ristoski <ristoskialeksandar34@gmail.com>
+Date:   Sun Apr 10 21:35:40 2022 +0200
+
+    Add 5 items to the shopping list
+
+
+
+20. $ git checkout master
+
+21. $ git merge branch1
+
+22. $ git merge branch2
+
+$ git status
+
+$ git add shopping_list.txt
+
+$ git commit -m "Resolved merge conflict by incorporating both suggestions"
+
+Done ?? 
+
+
+Profesore bi sakal da ve izvestam deka mozhno e na kraj da imam razlichen outcome rezultat, bidejki na pocetok napraviv mala greshka pa menuvav nekoi raboti xD. Se nadevam nema da bide problem! Pozdrav i se najdobro. 
+
+       
+ 	
