@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aleksandar 
+- 👋 Hi, I’m Aleksandar Ristoski Index number 183232
 - 👀 I’m interested in Computer Science, Data Science, Artificial Intelligence, Science in general, Football, Basketball, Gaming and the list goes on.
 - 🌱 I’m currently studying Computer Science and Engineering at FINKI and im mostly focused on the AI and Data Science field.
 - 💞️ I’m looking to collaborate on any project, paper, research, anything including the fields mentioned above.
