@@ -2,4 +2,4 @@ orange x3
 towel x8
 mask x20 (ne sme environment friendly)
 flex seeds x1 package 
-almond milk x2 
+almond milk x3 (dojde i asistentot pa kupivme +1 mleko za kafe)
