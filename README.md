@@ -6,7 +6,7 @@
 - mail: ristoskialeksandar34@gmail.com
 - facebook: Aleksandar Ristoski
 - instagram: @aristoskii
-- linkedin: https://www.linkedin.com/in/aleksandar-ristoski-5a70b6207/  (in progress)
+- linkedin: https://www.linkedin.com/in/aleksandar-ristoski-5a70b6207/ 
 - 👋 my friends call me Ace, but you can call me anytime ;)))
 
 <!---
